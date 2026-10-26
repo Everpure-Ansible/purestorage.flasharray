@@ -2,7 +2,7 @@
 requires_ansible: ">=2.16.0"
 
 action_groups:
-  everpure.flasharray:
+  purestorage.flasharray:
     - metadata:
         extend_group:
           - everpure.flasharray.everpure.flasharray
